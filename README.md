@@ -3,8 +3,8 @@ Juego de preguntas creado con React y Redux. Este juego descarga 10 preguntas al
 
 ### Pantalla Inicial
 
-![App image](app_image.PNG)
+![App image](inicio.jpeg)
 
 ### Pantalla derrota
 
-![App image](app_image.PNG)
+![App image](derrota.jpeg)
